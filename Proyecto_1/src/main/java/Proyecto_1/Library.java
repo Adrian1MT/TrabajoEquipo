@@ -8,6 +8,6 @@ public class Library {
         return true;
     }
     public void prue() {
-    	int risas=1+1;
+    	int risas=1+1; 
     }
 }
