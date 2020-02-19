@@ -10,7 +10,7 @@ public class TestClase2 {
 	private String resultadoesperado;
 
 	@Test
-	public void test() {
+	public void testWellcome() {
 		resultado="Buenos dias";
 		//resultadoesperado=clase.Wellcome();
 		
@@ -18,5 +18,7 @@ public class TestClase2 {
 		
 		//org.junit.Assert.assertEquals(resultado,resultadoesperado);
 	}
+	
+	
 
 }
