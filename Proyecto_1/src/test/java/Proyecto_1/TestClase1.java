@@ -2,7 +2,7 @@ package Proyecto_1;
 
 import org.junit.Test;
 
-public class TestClase2 {
+public class TestClase1 {
 
 	int valor=0;
 	int resultado=0;
